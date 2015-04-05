@@ -1,0 +1,22 @@
+CACHE MANIFEST
+# 2015022801
+# This is another comment
+CACHE:
+css/bootstrap.min.css
+fonts/glyphicons-halflings-regular.eot
+fonts/glyphicons-halflings-regular.ttf
+fonts/glyphicons-halflings-regular.woff2
+fonts/glyphicons-halflings-regular.svg
+fonts/glyphicons-halflings-regular.woff
+img/beer.svg
+img/shot.svg
+img/vine.svg
+js/bootstrap.min.js
+js/Chart.min.js
+js/geo.js
+js/jquery.min.js
+
+# Use from network if available
+NETWORK:
+index.php
+*
